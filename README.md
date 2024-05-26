@@ -9,10 +9,10 @@
 [![Stars](https://img.shields.io/github/stars/Rajasekar118/AKKU-FILTER-BOT?style=flat-square&color=yellow)](https://github.com/Rajasekar118/AKKU-FILTER-BOT/stargazers)
 [![Forks](https://img.shields.io/github/forks/Rajasekar118/AKKU-FILTER-BOT?style=flat-square&color=orange)](https://github.com/Rajasekar118/AKKU-FILTER-BOT/fork)
 [![Size](https://img.shields.io/github/repo-size/Rajasekar118/AKKU-FILTER-BOT?style=flat-square&color=green)](https://github.com/Rajasekar118/AKKU-FILTER-BOT)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/MrMKN/PROFESSOR-BOT)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Rajasekar118/AKKU-FILTER-BOT)   
+[![Contributors](https://img.shields.io/github/contributors/Rajasekar118/AKKU-FILTER-BOT?style=flat-square&color=green)](https://github.com/Rajasekar/AKKU-FILTER-BOT/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Rajasekar118/AKKU-FILTER-BOT/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/Rajasekar118/AKKU-FILTER-BOT)
 
 
 
