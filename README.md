@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎+𝚃𝚘+𝙰KKU+𝙵𝚒𝚕𝚝𝚎𝚛+𝙱𝚘𝚝!;𝙲𝚛𝚎𝚊𝚝𝚎𝚍+𝙱𝚢+𝚃𝚎𝚊𝚖+𝙰𝙺𝙺𝚄+𝙱𝚘𝚝!;𝙰+𝚂𝙸𝙼𝙿𝙻𝙴+𝚃𝙶+𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁+𝙱𝙾𝚃)</p>
 <p align="center">
-  <img src="Logo/.jpeg" alt="MKN BOTZ LOGO">
+  <img src="Logo/Logo.jpg" alt="AKKU LOGO">
 </p>
 <h1 align="center">
   <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
