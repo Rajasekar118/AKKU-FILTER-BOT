@@ -71,24 +71,77 @@
 * `SHORT_URL` : Url Of Shortner Site You Use
 * `SHORT_API` : Api Key Of Shortner Which You Use
 
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/Rajasekar118/AKKU-FILTER-BOT">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
+</a>
+</p>
+</details>
 
-## Deploy to Heroku
+<details><summary>Deploy To Koyeb</summary>
+<br>
+<b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
+<br>
+<br>
 
-<a href=""><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                     
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Rajasekar118&branch=main&name=AKKU-FILTER-BOT)
+</details>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajasekar118/AKKU-FILTER-BOT)
-
-## Deploy to Koyeb
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Rajasekar118/AKKU-FILTER-BOT&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[MAX_RIST_BTNS]=10&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]=MknBotz&env[COLLECTION_NAME]=Telegram_files&env[SUPPORT_CHAT]&env[IMDB]=True&env[PM_IMDB]=True&env[IMDB_TEMPLATE]&env[IMDB_DELET_TIME]=900&env[SINGLE_BUTTON]=True&env[START_MESSAGE]&env[FORCE_SUB_TEXT]&env[AUTH_GROUPS]&env[WELCOM_PIC]&env[WELCOM_TEXT]&env[BUTTON_LOCK_TEXT]&env[PMFILTER]=True&env[G_FILTER]=True&env[BUTTON_LOCK]=True&env[RemoveBG_API]&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=main&name=mr-rofessor)              
-
-## Deploy to Railway
+<details><summary>Deploy To Railway</summary>
+<br>
+<br>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
+</details>
 
-## Deploy to Render
+<details><summary>Deploy To Render</summary>
+<br>
+<b>
+Use these commands:
+<br>
+<br>
+• Build Command: <code>pip3 install -U -r requirements.txt</code>
+<br>
+<br>
+• Start Command: <code>python3 bot.py</code>
+<br>
+<br>
+Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
+<br>
+<br>
+Use these settings when adding a monitor:</b>
+<br>
+<br>
+<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<br>
+<br>
+<b>Click on the below button to deploy directly to render ↓</b>
+<br>
+<br>
+<a href="https://render.com/deploy?repo=https://github.com/Rajasekar118/AKKU-FILTER-BOT/tree/main">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+</details>
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
+git clone https://github.com/Rajasekar118/AKKU-FILTER-BOT
+# Install Packages
+pip3 install -U -r requirements.txt
+Edit info.py with variables as given below then run bot
+python3 bot.py
+</pre>
+</p>
+</details>
+
+
+
+
+
+
 
 ## Commands
 ```
