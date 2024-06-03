@@ -1,3 +1,5 @@
+#Updated Version
+
 FROM python:3.10
 
 RUN apt update && apt upgrade -y
@@ -11,3 +13,15 @@ WORKDIR /app
 COPY . .
 
 CMD ["python", "bot.py"]
+
+#Old Version
+
+FROM python:3.8-slim-buster
+WORKDIR /app
+
+COPY requirements.txt requirements.txt
+RUN pip3 install -r requirements.txt
+
+COPY . .
+
+CMD python3 main.py
